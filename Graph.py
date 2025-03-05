@@ -1,3 +1,11 @@
+'''
+Implementation of Graph Class as Adjacency List with various citities. Shortest path functions best for 
+
+- Designed for Unweighted Graphs
+- Shortest Path in Terms of Edges
+
+'''
+
 class Graph:
     def __init__(self):
         self.adjacency_list = {}
